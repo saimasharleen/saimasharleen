@@ -6,7 +6,7 @@
 ### Hi there!! 🐼
 
 ### *A head full of dreams*
-- 🔭 I’m currently working on crime prediction 
+- 🔭 I’m currently working on 3D liver segmentation
 - 🌱 I’m currently learning Web Scraping
 
 
