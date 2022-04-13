@@ -7,7 +7,7 @@
 
 ### *A head full of dreams*
 - 🔭 I’m currently working on 3D liver segmentation
-- 🌱 I’m currently learning Web Scraping
+- 🌱 I’m currently trying to learn everything 🤣
 
 
 **Languages and Tools**
