@@ -3,7 +3,7 @@
 <!--
 **saimasharleen/saimasharleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there!! 🐼
+### Hi there!! 🐼 I'm Saima Sharleen Islam 👋
 
 ### *A head full of dreams*
 - 🔭 I’m currently working on 3D liver segmentation
