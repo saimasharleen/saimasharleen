@@ -6,7 +6,7 @@
 ### Hi there!! 🐼 I'm Saima Sharleen Islam 👋
 
 ### *A head full of dreams*
-- 🔭 I’m currently working on 3D liver segmentation
+- 🔭 I’m currently working on a query based recommendation system
 - 🌱 I’m currently trying to learn everything 🤣
 
 
