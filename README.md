@@ -6,7 +6,7 @@
 ### Hi there!! 🐼 I'm Saima Sharleen Islam 👋
 
 ### *A head full of dreams*
-- 🔭 I’m currently working on a query based recommendation system
+- 🔭 I’m currently working on tractogram filtering
 - 🌱 I’m currently trying to learn everything 🤣
 
 
