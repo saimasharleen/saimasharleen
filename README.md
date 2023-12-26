@@ -26,13 +26,13 @@
 <p align="left">  
   <!-- Neuroscience Tools -->
   <a href="https://nipy.org/nibabel/" target="_blank" rel="noreferrer"> 
-    <img src="URL_FOR_NIBABEL_LOGO" alt="nibabel" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="nibabel" title="NiBabel" width="40" height="40"/> 
   </a>
   <a href="https://www.nitrc.org/projects/surfice/" target="_blank" rel="noreferrer"> 
-    <img src="URL_FOR_SURFICE_LOGO" alt="surfice" width="40" height="40"/> 
+    <img src="https://www.example.com/brain_icon.png" alt="surfice" title="SurfIce" width="40" height="40"/> 
   </a>
   <a href="https://www.mccauslandcenter.sc.edu/mricrogl/" target="_blank" rel="noreferrer"> 
-    <img src="URL_FOR_MRICROGL_LOGO" alt="mricrogl" width="40" height="40"/> 
+    <img src="https://www.example.com/mri_icon.png" alt="mricrogl" title="MRIcroGL" width="40" height="40"/> 
   </a>
   <!-- Existing Tools -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
