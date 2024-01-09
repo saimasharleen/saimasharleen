@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on [tractogram filtering](https://github.com/FBK-NILab/verifyber-evo)
 
 - 🌱 I’m currently learning **statistics specially about Correlation and Experimental Design**
+- 👩🏻‍💻 I'm planning to learn Android Development this year.
 
 - 👯 I’m looking to collaborate on **dementia**
 
