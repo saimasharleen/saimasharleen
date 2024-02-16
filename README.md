@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [tractogram filtering](https://github.com/FBK-NILab/verifyber-evo)
 
-- 🌱 I’m currently learning **data engineering and big data**
+- 🌱 I’m currently learning **Data Pipeline**
 - 👩🏻‍💻 I'm planning to learn Android Development this year.
 
 - 👯 I’m looking to collaborate on **dementia**
